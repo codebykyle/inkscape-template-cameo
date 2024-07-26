@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="8.5in"
+   height="11in"
+   viewBox="0 0 816 1056"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   sodipodi:docname="Code By Kyle Plotter Template.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#505050"
+     bordercolor="#ffffff"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="1"
+     inkscape:deskcolor="#505050"
+     inkscape:document-units="mm"
+     showgrid="true"
+     inkscape:zoom="1.1472735"
+     inkscape:cx="419.69068"
+     inkscape:cy="312.47998"
+     inkscape:window-width="1920"
+     inkscape:window-height="1018"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg5"
+     inkscape:lockguides="false"
+     guidecolor="#ff0000"
+     guideopacity="0.76078431">
+    <inkscape:grid
+       type="xygrid"
+       id="grid2864"
+       originx="0"
+       originy="0"
+       units="mm"
+       spacingx="18.897638"
+       spacingy="18.897638"
+       dotted="false"
+       color="#0099e5"
+       opacity="0.04705882"
+       empcolor="#0099e5"
+       empopacity="0.30980392"
+       empspacing="1" />
+    <sodipodi:guide
+       position="0,1056"
+       orientation="0,815.99998"
+       id="guide2924"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="815.99997,1056"
+       orientation="1056,0"
+       id="guide2926"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="815.99997,0"
+       orientation="0,-815.99998"
+       id="guide2928"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="0,0"
+       orientation="-1056,0"
+       id="guide2930"
+       inkscape:locked="false" />
+    <inkscape:grid
+       type="xygrid"
+       id="grid994"
+       originx="56.692913"
+       originy="75.590551"
+       empcolor="#009900"
+       empopacity="1"
+       empspacing="1"
+       spacingx="737.00787"
+       spacingy="925.98425"
+       color="#0099e5"
+       opacity="0"
+       units="mm"
+       dotted="false" />
+    <inkscape:grid
+       type="xygrid"
+       id="grid1023"
+       empcolor="#009900"
+       empopacity="1"
+       units="mm"
+       spacingy="774.80315"
+       originy="151.1811"
+       spacingx="585.82677"
+       originx="132.28346"
+       empspacing="1" />
+  </sodipodi:namedview>
+  <defs
+     id="defs2" />
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="Regmarks"
+     style="display:inline"
+     sodipodi:insensitive="true">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:'Noto Mono';-inkscape-font-specification:'Noto Mono, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#808080;fill-opacity:0.921569;stroke-width:18.8976"
+       x="585.64612"
+       y="1015.864"
+       id="text1598"
+       inkscape:label="Attribute"><tspan
+         sodipodi:role="line"
+         id="tspan1596"
+         x="585.64612"
+         y="1015.864">Code By Kyle Plotter Template</tspan><tspan
+         sodipodi:role="line"
+         x="585.64612"
+         y="1030.864"
+         id="tspan1463">Rev 0.11</tspan></text>
+    <path
+       inkscape:label="Regmark Top Right"
+       inkscape:connector-curvature="0"
+       id="regmark-tr"
+       d="m 719.03207,76.512387 h 73.7469 v 73.746893"
+       style="display:inline;fill:none;stroke:#000000;stroke-width:1.84367;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <path
+       inkscape:label="Regmark Bottom Left"
+       inkscape:connector-curvature="0"
+       id="regmark-bl"
+       d="M 131.36164,1000.6531 H 57.61475 v -73.74701"
+       style="display:inline;fill:none;stroke:#000000;stroke-width:1.84367;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <text
+       id="text4334-5"
+       y="89.555023"
+       x="93.079002"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.8267px;line-height:0%;font-family:'Noto Mono';-inkscape-font-specification:'Noto Mono, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;display:inline;fill:#808080;fill-opacity:1;stroke:none;stroke-width:1.13778"
+       xml:space="preserve"
+       inkscape:label="Horizontal Spacing"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.8267px;line-height:1.25;font-family:'Noto Mono';-inkscape-font-specification:'Noto Mono, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#808080;fill-opacity:1;stroke-width:1.13778"
+         y="89.555023"
+         x="93.079002"
+         id="tspan4336-3"
+         sodipodi:role="line">15mm</tspan></text>
+    <text
+       inkscape:transform-center-y="-20.561721"
+       inkscape:transform-center-x="96.7181"
+       transform="rotate(-90)"
+       id="text4330-5"
+       y="71.025055"
+       x="-145.55908"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.6533px;line-height:0%;font-family:'Noto Mono';-inkscape-font-specification:'Noto Mono, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;display:inline;fill:#808080;fill-opacity:1;stroke:none;stroke-width:1.13778"
+       xml:space="preserve"
+       inkscape:label="Vertical Spacing"><tspan
+         id="tspan4106"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.6533px;line-height:1.25;font-family:'Noto Mono';-inkscape-font-specification:'Noto Mono, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#808080;fill-opacity:1;stroke-width:1.13778"
+         y="71.025055"
+         x="-145.55908"
+         sodipodi:role="line">20mm</tspan></text>
+    <rect
+       inkscape:label="Regmark Top Left"
+       y="76.449532"
+       x="57.551895"
+       height="17.17968"
+       width="17.179674"
+       id="regmark-tl"
+       style="display:inline;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1.71796;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <text
+       inkscape:transform-center-y="-20.561721"
+       inkscape:transform-center-x="96.7181"
+       transform="rotate(-90)"
+       id="text4330"
+       y="70.723145"
+       x="-547.45612"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.8267px;line-height:0%;font-family:'Noto Mono';-inkscape-font-specification:'Noto Mono, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;display:inline;fill:#808080;fill-opacity:1;stroke:none;stroke-width:1.13778"
+       xml:space="preserve"
+       inkscape:label="Vertical Distance"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.8267px;line-height:1.25;font-family:'Noto Mono';-inkscape-font-specification:'Noto Mono, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#808080;fill-opacity:1;stroke-width:1.13778"
+         y="70.723145"
+         x="-547.45612"
+         id="tspan4332"
+         sodipodi:role="line">245mm</tspan></text>
+    <text
+       id="text4334"
+       y="89.916031"
+       x="387.06671"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.6533px;line-height:0%;font-family:'Noto Mono';-inkscape-font-specification:'Noto Mono, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;display:inline;fill:#808080;fill-opacity:1;stroke:none;stroke-width:1.13778"
+       xml:space="preserve"
+       inkscape:label="Horizontal Distance"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.6533px;line-height:1.25;font-family:'Noto Mono';-inkscape-font-specification:'Noto Mono, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#808080;fill-opacity:1;stroke-width:1.13778"
+         y="89.916031"
+         x="387.06671"
+         sodipodi:role="line"
+         id="tspan4782">195mm</tspan></text>
+    <path
+       inkscape:connector-curvature="0"
+       id="path2998"
+       d="M 399.937,55.17425 V 35.01677 h -8.06298 L 408,22.92228 424.12598,35.01677 h -8.06299 v 20.15748 z"
+       style="display:inline;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1.13778px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       inkscape:label="Insert Arrow" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer4"
+     inkscape:label="Cut" />
+  <g
+     inkscape:groupmode="layer"
+     id="layer3"
+     inkscape:label="Print" />
+  <inkscape:templateinfo>
+    <inkscape:name>Code By Kyle Plotter Template</inkscape:name>
+    <inkscape:author>Code By Kyle</inkscape:author>
+    <inkscape:shortdesc>Rev 0.1</inkscape:shortdesc>
+    <inkscape:date>2024-02-07</inkscape:date>
+  </inkscape:templateinfo>
+</svg>
